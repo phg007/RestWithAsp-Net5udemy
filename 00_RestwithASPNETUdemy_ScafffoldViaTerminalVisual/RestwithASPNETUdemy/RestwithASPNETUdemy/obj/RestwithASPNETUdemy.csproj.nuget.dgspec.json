@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\RestWithASP\\RestWithAsp-Net5udemy\\00_RestwithASPNETUdemy_ScafffoldViaTerminalVisual\\RestwithASPNETUdemy\\RestwithASPNETUdemy\\RestwithASPNETUdemy.csproj": {}
+  },
+  "projects": {
+    "C:\\RestWithASP\\RestWithAsp-Net5udemy\\00_RestwithASPNETUdemy_ScafffoldViaTerminalVisual\\RestwithASPNETUdemy\\RestwithASPNETUdemy\\RestwithASPNETUdemy.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\RestWithASP\\RestWithAsp-Net5udemy\\00_RestwithASPNETUdemy_ScafffoldViaTerminalVisual\\RestwithASPNETUdemy\\RestwithASPNETUdemy\\RestwithASPNETUdemy.csproj",
+        "projectName": "RestwithASPNETUdemy",
+        "projectPath": "C:\\RestWithASP\\RestWithAsp-Net5udemy\\00_RestwithASPNETUdemy_ScafffoldViaTerminalVisual\\RestwithASPNETUdemy\\RestwithASPNETUdemy\\RestwithASPNETUdemy.csproj",
+        "packagesPath": "C:\\Users\\paulo.goncalves\\.nuget\\packages\\",
+        "outputPath": "C:\\RestWithASP\\RestWithAsp-Net5udemy\\00_RestwithASPNETUdemy_ScafffoldViaTerminalVisual\\RestwithASPNETUdemy\\RestwithASPNETUdemy\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\paulo.goncalves\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
