@@ -465,11 +465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\RestWithAsp-Net5udemy\\RestWithAsp-Net5udemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
+      "projectUniqueName": "C:\\Users\\paulo.goncalves\\Desktop\\RestWithAsp-Net5udemy\\RestWithAsp-Net5udemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
       "projectName": "RestWithASPNETUdemy",
-      "projectPath": "C:\\RestWithAsp-Net5udemy\\RestWithAsp-Net5udemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
+      "projectPath": "C:\\Users\\paulo.goncalves\\Desktop\\RestWithAsp-Net5udemy\\RestWithAsp-Net5udemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
       "packagesPath": "C:\\Users\\paulo.goncalves\\.nuget\\packages\\",
-      "outputPath": "C:\\RestWithAsp-Net5udemy\\RestWithAsp-Net5udemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\obj\\",
+      "outputPath": "C:\\Users\\paulo.goncalves\\Desktop\\RestWithAsp-Net5udemy\\RestWithAsp-Net5udemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\paulo.goncalves\\AppData\\Roaming\\NuGet\\NuGet.Config",
