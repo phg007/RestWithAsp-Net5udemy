@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V6CqmIW2vHpvuuRt/e2Ma76ZSM3ca7ehoujnE3c8mmjpX5pr9BliDFVrNrwgxwaOOX0bnqIK4ZpqulF6L9/y4Q==",
+  "dgSpecHash": "/5uyCsduhmlSUHZy9AGcEKJr7hZqXocE1dx4QeCCT4FcKUh0WTdsDRmJYcbbGfc0WsQstgkevdqRcS5QqRDYAg==",
   "success": true,
-  "projectFilePath": "C:\\RestWithAsp-Net5udemy\\RestWithAsp-Net5udemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
+  "projectFilePath": "C:\\Users\\paulo.goncalves\\Desktop\\RestWithAsp-Net5udemy\\RestWithAsp-Net5udemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\paulo.goncalves\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.5\\microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
     "C:\\Users\\paulo.goncalves\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
